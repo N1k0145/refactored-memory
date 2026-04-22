@@ -1,4 +1,5 @@
-# Exercícios de Algoritmos
+# Exercícios de Algoritmos  
+(Prof. Gustavo Guanabara)  
 
 p01 - Sequências Básicas;  
 p02 - Condições Básicas;  
