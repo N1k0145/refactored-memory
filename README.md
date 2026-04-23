@@ -10,7 +10,3 @@
 (p08) Vetores;  
 (p09) Procedimentos;  
 (p10) Funções;  
-.  
-.  
-.  
-(Prof. Gustavo Guanabara)  
