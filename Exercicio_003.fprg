@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exercicio_004"/>
+        <attribute name="authors" value="Fabio"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-04-29 04:35:50 PM"/>
+        <attribute name="created" value="RmFiaW87REVTS1RPUC1VQzlPRUxGOzIwMjYtMDQtMjk7MDQ6MjA6NDUgUE07Mjg1MQ=="/>
+        <attribute name="edited" value="RmFiaW87REVTS1RPUC1VQzlPRUxGOzIwMjYtMDQtMjk7MDQ6MzU6NTAgUE07MjsyOTYy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+            <declare name="salario" type="Real" array="False" size=""/>
+            <output expression="&quot;Nome do funcion&#225;rio: &quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Sal&#225;rio: &quot;" newline="True"/>
+            <input variable="salario"/>
+            <output expression="&quot;O(A) funcion&#225;rio(a) &quot; &amp;nome &amp;&quot; tem um sal&#225;rio de R$&quot; &amp;salario &amp;&quot; em Junho.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
