@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exercicio_004"/>
+        <attribute name="authors" value="Fabio"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-04-29 04:52:12 PM"/>
+        <attribute name="created" value="RmFiaW87REVTS1RPUC1VQzlPRUxGOzIwMjYtMDQtMjk7MDQ6MjA6NDUgUE07Mjg1MQ=="/>
+        <attribute name="edited" value="RmFiaW87REVTS1RPUC1VQzlPRUxGOzIwMjYtMDQtMjk7MDQ6NTI6MTIgUE07NDsyOTYx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num1" type="Integer" array="False" size=""/>
+            <declare name="num2" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite um valor: &quot;" newline="True"/>
+            <input variable="num1"/>
+            <output expression="&quot;Digite outro valor: &quot;" newline="True"/>
+            <input variable="num2"/>
+            <output expression="&quot;A soma entre &quot; &amp;num1 &amp;&quot; e &quot; &amp;num2 &amp;&quot; &#233; igual a &quot; &amp;(num1 + num2)&amp;&quot;.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
